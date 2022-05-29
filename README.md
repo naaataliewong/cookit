@@ -2,6 +2,25 @@
 
 Our goal in creating this app was to provide a one-stop place where users could find their desired recipe without having to go through multiple websites, which may be  time consuming. With the CooKit app, users can have a recipe library in his/her pocket to access at any time and from anywhere. 
 
+
+## API Reference
+
+#### Get recipe information
+
+```http
+  GET https://api.spoonacular.com/recipes/{id}/information
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `number` | The id of the recipe. |
+| `title` | `string` | The name of the recipe. |
+| `image` | `image` | The image of the recipe. |
+| `readyInMinutes` | `number` | The duration to cook the recipe. |
+| `sourceUrl` | `string` | The source of the recipe. |
+| `extendedIngredients` | `string` | The ingredients of the recipe. |
+
+
 ## Color Reference
 
 | Color             | Hex                                                                |
