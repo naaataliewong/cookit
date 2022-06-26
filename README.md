@@ -43,5 +43,5 @@ https://drive.google.com/file/d/1m1EGSDrRyE6h-faHpwcgY6HdQKD4pG9U/view?usp=shari
 - [@naaatalie.wong](https://github.com/naaataliewong)
 - [@eilxxn](https://github.com/eilxxn)
 - [@sahftech](https://github.com/sahftech)
-- [@sarang-nambier](https://github.com/Sarang-Nambiar)
+- [@sarang-nambiar](https://github.com/Sarang-Nambiar)
 - [@xiangtingg](https://github.com/xiangtingg)
